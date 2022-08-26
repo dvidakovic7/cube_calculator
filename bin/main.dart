@@ -5,6 +5,7 @@ import "package:collection/collection.dart";
 import "solve_collector.dart";
 import 'all_solves.dart';
 import 'avg_calc.dart';
+
 void main() 
 {
   
@@ -24,7 +25,7 @@ void main()
     }
   }     
   solveNumber++;
-  
+
 }
   /* GOING TO USE SOMETHING OF THIS LATER...MAYBE XD
   if (solveNumber >= 5)
