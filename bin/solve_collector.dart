@@ -1,4 +1,4 @@
-import 'dart:io';
+import "dart:io";
 
 double solveCollector (int solveNumber) {
     print("\nEnter solve ${solveNumber}:\n");
