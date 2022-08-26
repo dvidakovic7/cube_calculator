@@ -4,7 +4,7 @@ import "package:collection/collection.dart";
 import "solve_collector.dart";
 void main() {
   
-  print("Welcome to Cube Calculator!\n");
+  print("Welcome to Cube Calculator by Dominik Vidaković!\n");
 
   List<double> cubeSolves = [];
 
