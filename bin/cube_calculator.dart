@@ -1,10 +1,10 @@
 import "dart:math";
 import "dart:collection";
 import "package:collection/collection.dart";
-import 'solve_collector.dart';
+import "solve_collector.dart";
 void main() {
   
-  print("Welcome to Cube Average Calculator!\n");
+  print("Welcome to Cube Calculator!\n");
 
   List<double> cubeSolves = [];
 
