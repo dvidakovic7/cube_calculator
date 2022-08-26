@@ -5,7 +5,8 @@ import "package:collection/collection.dart";
 import "solve_collector.dart";
 import 'all_solves.dart';
 import 'avg_calc.dart';
-void main() {
+void main() 
+{
   
   print("Welcome to Cube Calculator by Dominik Vidaković!\n");
 
@@ -21,7 +22,11 @@ void main() {
     
       print ("Best single is ${bestSingle()}");
     }
-  /*
+  }     
+  solveNumber++;
+  
+}
+  /* GOING TO USE SOMETHING OF THIS LATER...MAYBE XD
   if (solveNumber >= 5)
     {
       print("\nBest single is ${fastestSolve}");
@@ -51,6 +56,3 @@ void main() {
       double averageOfLast12Solves = sumLast12Solves/10;
       print("Average of last 12 solves is: ${averageOfLast12Solves.toStringAsFixed(2)}\n");
       }*/
-  }     
-  solveNumber++;
-}
